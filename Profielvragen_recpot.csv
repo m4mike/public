@@ -1,112 +1,112 @@
-﻿Priority,Weight,Category,Vraag,Tag
-1,10,RecPot,"Het maakt me blij, als ik  anderen kan helpen.",love_helping
-1,10,RecPot,Ik hou ervan anderen de weg te wijzen,love_helping
-1,10,RecPot,Ik deel graag mijn kennis met anderen.,share knowledge
-1,10,RecPot,Het welzijn van anderen is belangrijk voor mij.,sympathise
-1,10,RecPot,Interactie met anderen is belangrijk voor mij.,interact
-2,9,RecPot,Ik maak graag deel uit van een team.,team player
-2,9,RecPot,Het is belangrijk voor mij om het gevoel te hebben dat ik deel uitmaak van een gemeenschap.,team player
-2,9,RecPot,Ik geniet van groepsactiviteiten.,teamplayer
-1,10,RecPot,Ik ben graag op stap. Onder de mensen.,meet people
-1,10,RecPot,Groepswerk spreekt me wel aan.,teamwork
-1,10,RecPot,Ik ken veel mensen en heb veel vrienden.,lots of friends
-1,10,RecPot,Ik verkies harmonie in alles wat ik doe,harmony
-1,10,RecPot, Tact en warmte zijnbelangrijk in al mijn relaties,tactfull
-1,10,RecPot,Waarden zijn belangrijk voor mij. ,values
-1,10,RecPot,Ik kijk eerst naar wat belangrijk is voor de anderen.,giving
-1,10,RecPot,Ik beslis met mijn hart en met het nodige medeleven ,empathy
-1,10,RecPot,Tact is belangrijker dan koudweg de waarheid te vertellen.,tactfull
-1,10,RecPot,Soms sluit ik mijn ogen voor de harde kanten aan de feiten,dont_love_facts
-1,10,RecPot,Anderen vinden we soms veel te idealistisch en te naief.,naïve
-1,10,RecPot,"Ik deel graag mijn ervaringen met vrienden, buren en familie",share knowledge
-1,10,RecPot,Ik deel graag mijn ervaringen tijdens echte gesprekken,share knowledge
-1,10,RecPot,Ik deel graag mijn ervaringen op sociale media,share_experience_socmed
-1,10,RecPot,Ik neem graag deel aan discussies. Ik zit niet alleen te luisteren,love_discussion
-1,10,RecPot,Ik toon graag wie ik ben,sincere
-1,10,RecPot,Ik doe redelijk wat vrijwilligerswerk,love_helping
-1,10,RecPot,"Ik wil blijven leren, en volg daar ook graag lessen voor.",learner
-1,10,RecPot,Ik val niet graag de mensen lastig met alles wat ik weet.,love-notbothering_people
-1,10,RecPot,Ik gebruik regelmatig sociale media.,usealot_socialmedia
-5,8,RecPot,Ik ben ongelooflijk nieuwsgierig,am_nosy
-1,10,RecPot,Ik ben wel een groepjesmaker.,love_communities
-3,6,RecPot,Mijn partner beinvloedt me enorm als ik wat nieuws moet kopen,influencedby_partner
-3,6,RecPot,Sommige collega's beinvloeden me enorm als ik wat nieuws moet kopen,influencedby_colleauges
-3,6,RecPot,De buren beinvloeden me enorm als ik wat nieuws moet kopen,influencedby_neigbours
-3,6,RecPot,Vrienden op sociale netwerken beinvloeden me enorm als ik wat nieuws moet kopen,influencedby_socmed_friends
-3,6,RecPot,Online reviews beinvloeden me enorm als ik wat nieuws moet kopen,influencedby_onlinereviews
-4,6,RecPot,Reclamespotjes zap ik weg,zap_tvcommercials
-4,6,RecPot,Reclamespotjes spoek ik altijd door.,ff_tvcommercials
-4,6,RecPot,Ik hou van reclamespotjes,love_tvcommercials
-4,6,RecPot,Reclame op TV is een ideale plaspauze,pipi_tvcommercials
-1,10,RecPot,Ik ben zeer goed in het beïnvloeden van mensen,influencing_goodatit
-1,10,RecPot,Ik ben zeer slecht in het beïnvloeden van mensen,influencing_notgoodatit
-1,10,RecPot,Ik wil helemaal niemand beïnvloeden. Waarom zou ik,influencing_don'twant
-1,10,RecPot,Af en toe slaag ik er in iemand te beïnvloeden.,influencing_sometimes
-2,10,RecPot,Als ik in de spiegel kijk vind ik mezelf gewoon.,am_normal
-2,10,RecPot,Als ik in de spiegel kijk vind ik mezelf  doodgewoon,am_deadnormal
-2,10,RecPot,Als ik in de spiegel kijk vind ik mezelf speciaal ,am_special
-2,10,RecPot,Als ik in de spiegel kijk vind ik mezelf heel speciaal ,am_veryspecial
-3,9,RecPot,Op het werk rapporteer niemand aan mij,reportome_none
-3,9,RecPot,5 tot 20 mensen  rapporteren aan mij op het werk ,reportome_20
-3,9,RecPot,20 tot 50 mensen rapporteren aan mij op het werk,reportome_50
-3,9,RecPot,Meer dan 100 mensen rapporteren aan mij op het werk,reportome_100
-3,9,RecPot,Meer dan 1000 mensen rapporteren aan mij op het werk,reportome_1000
-3,9,RecPot,Ik ben een ondernemer en voel me daar goed bij.,entrepreneur
-3,9,RecPot,Ik heb een baas boven mij maar erg is dat niet,have _boss
-3,9,RecPot,Ik heb voor de overheid en heb dus - hopelijk- een goed pensioen,public_servant
-3,9,RecPot,ik studeer dus de zorgen zijn voor later,student
-3,9,RecPot,Ik ben gepensioneerd en heb weinig zorgen,retired
-2,9,RecPot,Ik ben vooral een TV-kijker,lovetv
-2,9,RecPot,Ik ben vooral een radioluisteraar,loveradio
-2,9,RecPot,Ik ben vooral een krantenlezer,lovenewspaper
-2,9,RecPot,ik  haal mijn nieuws vooral online,love_onlinenews
-2,9,RecPot,Ik lees vooral tijdschriften,love_magazines
-2,9,RecPot,Als consument vertrouw ik vooral TV,trust_tv
-2,9,RecPot,Als consument vertrouw ik vooral de radio,trust_radio
-2,9,RecPot,Als consument vertrouw ik vooral mijn krant,trust_newspapers
-2,9,RecPot,Als consument vertrouw ik vooral reviews op het web,trust_web
-2,9,RecPot,Als consument vertrouw ik vooral tijdschriften,trust_magazines
-2,9,RecPot,Als consument  vertrouw ik vooral Test-Aankoop,trust_testaankoop
-1,10,RecPot,Wat ik lees en hoor in advertenties overtuigt me het meest om iets te kopen,convincedby_ads
-1,10,RecPot,De reviews die ik over iets lees overtuigen me het meest om iets te kopen,convincedby_reviews
-1,10,RecPot,Wat mijn vrienden ervan denken overtuigt me het meest om iets te kopen,convincedby_friends
-1,10,RecPot,Ik praat zeer veel over merken in mijn omgeving,brands_talkalot
-1,10,RecPot,Ik deel graag al mijn ervaringen met merken,brands_shareexperience
-1,10,RecPot,Als iemand me wat vraagt geef ik graag mijn mening over merken,brands_whenaskedfor
-1,10,RecPot,Alleen als het extreem goed of slecht was zeg ik wel iets over merken,brands_extreme
-1,10,RecPot,In bed hebben we het soms over merken,brands_bed
-1,10,RecPot,onder vrienden hebben we het vaak over merken,brands_among friends
-1,10,RecPot,Tijdens koffiepauzes gaat het vaak over merken,brands_coffebreak
-1,10,RecPot,Online  over merken kletsen vind ik nuttig tijdsgebruik.,brands_onlinechat
-1,10,RecPot,Met de buren hebben we het vaak over merken.,brands_neigbours
-4,3,RecPot,Na het sporten worden er vaak ervaringen uitgewisseld over merken,brands_aftersports
-2,7,RecPot,Koning. Dat zou ik het liefst van al zijn.,wanttobe_king
-2,7,RecPot,Keizer.Dat zou ik het liefst van al zijn.,wanttobe_emperor
-2,7,RecPot,President.Dat zou ik het liefst van al zijn.,wanttobe_president
-2,7,RecPot,Eerste Minister. Dat zou ik het liefst van al zijn.,wanttobe_primeminister
-2,7,RecPot,Oppositieleider.Dat zou ik het liefst van al zijn.,wanttobe_opposition
-9,3,RecPot,Ik vind bruine  groenten de lekkerste van allemaal,love_vegetables_brown
-9,3,RecPot,Ik studeer rnog steeds. Ik weet van geen ophouden,still_studying
-9,3,RecPot,Studeren én kleine klusjes doen vind ik de max,studying_smalljobs
-9,3,RecPot,Elke ochtend trek ik me terug in het kleinste kamertke,toilet_everymorning
-9,3,RecPot,Na de eerste sigaret trek ik me terug in het kleinste kamertke,toilet_aftercigarette
-9,3,RecPot,Als het nodig is trek ik me terug in het kleinste kamertke,toilet_whenneeded
-9,3,RecPot,Voor het slapen gaan trek ik me terug in het kleinste kamertke,toilet_beforesleeping
-9,3,RecPot,Als ik alleen wil zijn trek ik me terug in het kleinste kamertke,toilet_allalone
-9,10,RecPot,Ik vind mezelf  entoesiast en extravert,enthusiasm_extravert
-9,10,RecPot,Ik vind mezelf kritisch en zoek de confrontatie,critical_confrontational
-9,10,RecPot,Ik denk dat ik betrouwbaar ben,trustworthy
-9,10,RecPot,Ik ben nogal angstig en op mijn hoede.,caution_vigilant
-9,10,RecPot,Ik sta open voor nieuwe ervaringen en uitdagingen,new_experience_challenges
-9,10,RecPot,Ik ben nogal teruggetrokken.,shy_intoverted
-9,10,RecPot,Ik denk dat men me sympatiek en warm vindt ,Sympathetic_warm
-9,10,RecPot,Ik ben nogal chaotisch en slecht georganiseerd,Chaotic
-9,10,RecPot,Ik ben rustig en stabiel,Quiet_stable
-9,10,RecPot,"Ik ben nogal behoudsgezind, klassiek",conservative_classical
-1,10,RecPot,Ik wil altijd meer,always_more
-1,10,RecPot,Ik ben eigenlijk wel hebberig,greedy
-1,10,RecPot,Geld heb je nooit genoeg,profit_driven
-1,10,RecPot,"Zodra ik iets heb, denk ik alweer aan het volgende dat ik wil hebben",never_enough
-1,10,RecPot,"Het maakt niet uit hoeveel ik heb, ik ben nooit echt tevreden",never_enough
-1,10,RecPot,Mijn levensmotto is 'meer is beter',more_better
-1,10,RecPot,Ik denk dat ik nooit genoeg spullen kan hebben.,never_enough
+﻿Priority,Weight,Category,Vraag,Tag,Guid
+1,10,RecPot,"Het maakt me blij, als ik  anderen kan helpen.",love_helping,dce8288b-50b2-456e-9fe0-f5f6e5dcd3d7
+1,10,RecPot,Ik hou ervan anderen de weg te wijzen,love_helping,a3381065-20b3-424e-91ed-56a2c9b2764b
+1,10,RecPot,Ik deel graag mijn kennis met anderen.,share knowledge,1c2870b9-0637-4ad2-bddf-075fb7df52e3
+1,10,RecPot,Het welzijn van anderen is belangrijk voor mij.,sympathise,69c8d69b-102c-4da7-a060-e7b2b8d843ed
+1,10,RecPot,Interactie met anderen is belangrijk voor mij.,interact,41881878-e495-40cc-a4ab-f10687abb464
+2,9,RecPot,Ik maak graag deel uit van een team.,team player,1b642d65-6164-4280-b0ce-63d3d043b6ed
+2,9,RecPot,Het is belangrijk voor mij om het gevoel te hebben dat ik deel uitmaak van een gemeenschap.,team player,781a6c85-40b5-48d7-889c-c2225565a04a
+2,9,RecPot,Ik geniet van groepsactiviteiten.,teamplayer,f6dad204-1a6a-4380-ba63-9f2d4d382ed1
+1,10,RecPot,Ik ben graag op stap. Onder de mensen.,meet people,34ecce81-54fb-4bc8-bb95-b68f056eb5d5
+1,10,RecPot,Groepswerk spreekt me wel aan.,teamwork,7c06debe-7c04-461f-95c6-6d6e65dd793d
+1,10,RecPot,Ik ken veel mensen en heb veel vrienden.,lots of friends,2c0a0f86-b4cd-4b84-ac3f-e761e0632f4b
+1,10,RecPot,Ik verkies harmonie in alles wat ik doe,harmony,f035f3a8-8098-422d-a38f-3460de881d70
+1,10,RecPot, Tact en warmte zijnbelangrijk in al mijn relaties,tactfull,88313d0c-e187-4518-9f87-e4f9933d6840
+1,10,RecPot,Waarden zijn belangrijk voor mij. ,values,e1b068bb-f1e4-4c96-aadf-2500eb510201
+1,10,RecPot,Ik kijk eerst naar wat belangrijk is voor de anderen.,giving,2adbe7ec-bc42-4f16-b982-0af34fefbca7
+1,10,RecPot,Ik beslis met mijn hart en met het nodige medeleven ,empathy,a44ddd32-ab14-4e6a-b772-5757ebeb952e
+1,10,RecPot,Tact is belangrijker dan koudweg de waarheid te vertellen.,tactfull,bf5057d6-77ae-41ec-90a7-477b9063f4d3
+1,10,RecPot,Soms sluit ik mijn ogen voor de harde kanten aan de feiten,dont_love_facts,a2bb544e-215d-458a-8949-709d8d33fda4
+1,10,RecPot,Anderen vinden we soms veel te idealistisch en te naief.,naïve,edcbbc9b-0a67-4e21-a13c-2908d205e000
+1,10,RecPot,"Ik deel graag mijn ervaringen met vrienden, buren en familie",share knowledge,9323b33c-1422-4ebb-a34b-d84f6a5364e0
+1,10,RecPot,Ik deel graag mijn ervaringen tijdens echte gesprekken,share knowledge,c29f92c8-92be-4105-9672-a610eff01927
+1,10,RecPot,Ik deel graag mijn ervaringen op sociale media,share_experience_socmed,f9e8c04f-7d8f-455d-9c1c-5926ce2943dd
+1,10,RecPot,Ik neem graag deel aan discussies. Ik zit niet alleen te luisteren,love_discussion,07e51e79-45a8-4ea0-bd1d-67c1b68360a0
+1,10,RecPot,Ik toon graag wie ik ben,sincere,7100f8e6-c5d4-41d5-96b6-08a091cc1803
+1,10,RecPot,Ik doe redelijk wat vrijwilligerswerk,love_helping,d1ff2c8d-f562-4407-bb37-51e36dcd6de9
+1,10,RecPot,"Ik wil blijven leren, en volg daar ook graag lessen voor.",learner,bd90d2e3-ef8e-416c-ac2c-6f2559d83eb0
+1,10,RecPot,Ik val niet graag de mensen lastig met alles wat ik weet.,love-notbothering_people,cb2eab7c-4e23-41ac-8a45-431f11204839
+1,10,RecPot,Ik gebruik regelmatig sociale media.,usealot_socialmedia,de4ac459-8349-4ad2-b320-ad1b998bb5ea
+5,8,RecPot,Ik ben ongelooflijk nieuwsgierig,am_nosy,0b913748-a1f2-492b-8511-c99f06b708e4
+1,10,RecPot,Ik ben wel een groepjesmaker.,love_communities,74167f88-dccb-4141-b4cc-4e6e194806f4
+3,6,RecPot,Mijn partner beinvloedt me enorm als ik wat nieuws moet kopen,influencedby_partner,8cdaf5ac-c0b0-4cfb-a6bf-e2dda9ad4d33
+3,6,RecPot,Sommige collega's beinvloeden me enorm als ik wat nieuws moet kopen,influencedby_colleauges,093f9e2b-c439-4480-9267-ea349cd3b04b
+3,6,RecPot,De buren beinvloeden me enorm als ik wat nieuws moet kopen,influencedby_neigbours,35eafc69-3f80-4fa3-a9de-01c96ffde99e
+3,6,RecPot,Vrienden op sociale netwerken beinvloeden me enorm als ik wat nieuws moet kopen,influencedby_socmed_friends,870af091-857a-4b08-a039-686cc5b8ebbe
+3,6,RecPot,Online reviews beinvloeden me enorm als ik wat nieuws moet kopen,influencedby_onlinereviews,8804fc2a-c4b1-42fc-8d21-9e7cc9aee668
+4,6,RecPot,Reclamespotjes zap ik weg,zap_tvcommercials,92c1a269-f748-4687-a7ff-19785954f501
+4,6,RecPot,Reclamespotjes spoek ik altijd door.,ff_tvcommercials,35a0ef13-3bd7-417a-aabb-b34addf345ae
+4,6,RecPot,Ik hou van reclamespotjes,love_tvcommercials,29c1dd87-9119-4fe6-89ec-6b117263e37d
+4,6,RecPot,Reclame op TV is een ideale plaspauze,pipi_tvcommercials,5aea4761-e324-4f2b-a1b2-7a96e4f89442
+1,10,RecPot,Ik ben zeer goed in het beïnvloeden van mensen,influencing_goodatit,1dfbfa18-75ac-4c10-8efb-f449e28726ab
+1,10,RecPot,Ik ben zeer slecht in het beïnvloeden van mensen,influencing_notgoodatit,4bd0c16e-bac3-4e92-a80d-c8238e812357
+1,10,RecPot,Ik wil helemaal niemand beïnvloeden. Waarom zou ik,influencing_don'twant,5423a3d2-568e-447a-a709-19529415751b
+1,10,RecPot,Af en toe slaag ik er in iemand te beïnvloeden.,influencing_sometimes,f70d6281-6501-4f63-985c-d32f97aa59b9
+2,10,RecPot,Als ik in de spiegel kijk vind ik mezelf gewoon.,am_normal,ff7eafd9-f549-4e6b-a2ac-ba09bff301a8
+2,10,RecPot,Als ik in de spiegel kijk vind ik mezelf  doodgewoon,am_deadnormal,051bf35e-7513-40a6-86cb-42b2b211d125
+2,10,RecPot,Als ik in de spiegel kijk vind ik mezelf speciaal ,am_special,3aeee20d-0e4c-4db3-89ee-4b48814edb96
+2,10,RecPot,Als ik in de spiegel kijk vind ik mezelf heel speciaal ,am_veryspecial,f277c267-f29c-4708-b77e-9cd29c9eefdd
+3,9,RecPot,Op het werk rapporteer niemand aan mij,reportome_none,42454342-aa14-4910-af6d-d471535b721e
+3,9,RecPot,5 tot 20 mensen  rapporteren aan mij op het werk ,reportome_20,4c74e6eb-5ae1-483f-a1ee-67f4bd78c3f7
+3,9,RecPot,20 tot 50 mensen rapporteren aan mij op het werk,reportome_50,13e5faa8-8700-41cb-8656-f4577a0602c1
+3,9,RecPot,Meer dan 100 mensen rapporteren aan mij op het werk,reportome_100,9b7e4bf8-6a20-4bac-b534-b97dd4484cc2
+3,9,RecPot,Meer dan 1000 mensen rapporteren aan mij op het werk,reportome_1000,b22d9729-b6aa-4097-8102-3ad45ab31345
+3,9,RecPot,Ik ben een ondernemer en voel me daar goed bij.,entrepreneur,2f83dfda-d9ef-4de4-8898-6bdb5eaedee2
+3,9,RecPot,Ik heb een baas boven mij maar erg is dat niet,have _boss,3c2d302e-127c-4f76-a480-11f9772f9ed8
+3,9,RecPot,Ik heb voor de overheid en heb dus - hopelijk- een goed pensioen,public_servant,ffb08384-23a5-4249-ad28-2ac424595609
+3,9,RecPot,ik studeer dus de zorgen zijn voor later,student,1d342e9b-0083-403b-9227-5eda1bfbe1bc
+3,9,RecPot,Ik ben gepensioneerd en heb weinig zorgen,retired,f9f2a2d5-acbd-4ab8-ab7f-56250cf2bb1c
+2,9,RecPot,Ik ben vooral een TV-kijker,lovetv,b32671da-521e-430b-b799-592a4447d829
+2,9,RecPot,Ik ben vooral een radioluisteraar,loveradio,de19d947-10cd-4be1-a098-846a605485db
+2,9,RecPot,Ik ben vooral een krantenlezer,lovenewspaper,ea70f6af-1457-40f2-9927-4aae660dc00e
+2,9,RecPot,ik  haal mijn nieuws vooral online,love_onlinenews,6a489629-3a59-4304-b1eb-b541545427c3
+2,9,RecPot,Ik lees vooral tijdschriften,love_magazines,94846c0b-b1a9-4191-96fa-9031922a64cb
+2,9,RecPot,Als consument vertrouw ik vooral TV,trust_tv,e5647d0e-cbd8-4f91-92fb-1a8a44895b1a
+2,9,RecPot,Als consument vertrouw ik vooral de radio,trust_radio,b0ce607c-e568-4f58-9531-be9665543883
+2,9,RecPot,Als consument vertrouw ik vooral mijn krant,trust_newspapers,dc43e46a-9b6d-46af-87e5-bce59802a098
+2,9,RecPot,Als consument vertrouw ik vooral reviews op het web,trust_web,3e3057f1-4067-4596-aaa2-f6949172225a
+2,9,RecPot,Als consument vertrouw ik vooral tijdschriften,trust_magazines,536848cd-9b89-437a-b531-439f4e455c7a
+2,9,RecPot,Als consument  vertrouw ik vooral Test-Aankoop,trust_testaankoop,e45f3fee-a167-4800-bc85-58b8820d4856
+1,10,RecPot,Wat ik lees en hoor in advertenties overtuigt me het meest om iets te kopen,convincedby_ads,8f51d515-9a64-403d-b72a-3fb9a35d60c2
+1,10,RecPot,De reviews die ik over iets lees overtuigen me het meest om iets te kopen,convincedby_reviews,428c15ae-2759-4ac5-9961-87020640f2f2
+1,10,RecPot,Wat mijn vrienden ervan denken overtuigt me het meest om iets te kopen,convincedby_friends,a247c1d0-b1f0-4561-9d32-64404d86a97d
+1,10,RecPot,Ik praat zeer veel over merken in mijn omgeving,brands_talkalot,c5674467-b9a0-47d4-9b3f-ffada8d23d34
+1,10,RecPot,Ik deel graag al mijn ervaringen met merken,brands_shareexperience,5c43e0a6-dd55-46b1-8b06-973ea878c9b1
+1,10,RecPot,Als iemand me wat vraagt geef ik graag mijn mening over merken,brands_whenaskedfor,e139cdea-22f3-422b-82ef-e1b9b503c961
+1,10,RecPot,Alleen als het extreem goed of slecht was zeg ik wel iets over merken,brands_extreme,47b5b3c8-9583-4be0-abd6-7445b0a76585
+1,10,RecPot,In bed hebben we het soms over merken,brands_bed,996df376-0ec6-48b9-a997-dde6caab1245
+1,10,RecPot,onder vrienden hebben we het vaak over merken,brands_among friends,b76bfbf9-4b94-493f-adff-451543f555bf
+1,10,RecPot,Tijdens koffiepauzes gaat het vaak over merken,brands_coffebreak,c9096ac2-8e58-4c19-a2a9-40caf409db84
+1,10,RecPot,Online  over merken kletsen vind ik nuttig tijdsgebruik.,brands_onlinechat,e85b2cc0-4fa8-436b-abb7-a6c958871656
+1,10,RecPot,Met de buren hebben we het vaak over merken.,brands_neigbours,b726c7a2-923a-40ba-a713-04cdebb6feab
+4,3,RecPot,Na het sporten worden er vaak ervaringen uitgewisseld over merken,brands_aftersports,93372848-a5a4-4db6-954b-1cde67aa83cf
+2,7,RecPot,Koning. Dat zou ik het liefst van al zijn.,wanttobe_king,da9f4347-2ccd-423e-ac85-498a31ebc737
+2,7,RecPot,Keizer.Dat zou ik het liefst van al zijn.,wanttobe_emperor,b5a9e6b8-0432-4dc5-904b-e586f1817d08
+2,7,RecPot,President.Dat zou ik het liefst van al zijn.,wanttobe_president,ed2bbd83-5bd9-4c04-8ca9-c9e939d1ede2
+2,7,RecPot,Eerste Minister. Dat zou ik het liefst van al zijn.,wanttobe_primeminister,24b567ad-0330-4d0f-99a0-d4eb83407ddb
+2,7,RecPot,Oppositieleider.Dat zou ik het liefst van al zijn.,wanttobe_opposition,de22ca87-d81e-434e-b171-7a05e47c7e8a
+9,3,RecPot,Ik vind bruine  groenten de lekkerste van allemaal,love_vegetables_brown,3a384108-33d5-4100-8a7c-a09a53344725
+9,3,RecPot,Ik studeer rnog steeds. Ik weet van geen ophouden,still_studying,e196644b-2209-472f-aa92-59315e867c9c
+9,3,RecPot,Studeren én kleine klusjes doen vind ik de max,studying_smalljobs,f6e747f9-fff3-492e-ac7f-a46ec1f77791
+9,3,RecPot,Elke ochtend trek ik me terug in het kleinste kamertke,toilet_everymorning,affdeb30-8dcd-492f-a6d1-fda3d0209f6f
+9,3,RecPot,Na de eerste sigaret trek ik me terug in het kleinste kamertke,toilet_aftercigarette,9c021592-254f-4c1b-8eaf-56d6241de133
+9,3,RecPot,Als het nodig is trek ik me terug in het kleinste kamertke,toilet_whenneeded,231ab89c-d8f8-4613-a7eb-268381eb7213
+9,3,RecPot,Voor het slapen gaan trek ik me terug in het kleinste kamertke,toilet_beforesleeping,5e2cbf79-85ab-4b86-aedb-ec9707474056
+9,3,RecPot,Als ik alleen wil zijn trek ik me terug in het kleinste kamertke,toilet_allalone,82837684-96d9-4843-8cee-eaf6224389ec
+9,10,RecPot,Ik vind mezelf  entoesiast en extravert,enthusiasm_extravert,96eb4325-421e-4a3b-9818-967ba50f6ee2
+9,10,RecPot,Ik vind mezelf kritisch en zoek de confrontatie,critical_confrontational,ff3fbd24-fa59-46fe-a62e-7a136999f3c5
+9,10,RecPot,Ik denk dat ik betrouwbaar ben,trustworthy,41aeca94-6261-4d0d-ac0b-df7e14ede3e1
+9,10,RecPot,Ik ben nogal angstig en op mijn hoede.,caution_vigilant,06a4ff94-649b-40c7-be4e-3ab8554094b1
+9,10,RecPot,Ik sta open voor nieuwe ervaringen en uitdagingen,new_experience_challenges,19d45e30-e47c-4bfa-97ff-eb94962ba8f0
+9,10,RecPot,Ik ben nogal teruggetrokken.,shy_intoverted,6ddd048d-e967-4ea9-ac8f-8efdaaf4f119
+9,10,RecPot,Ik denk dat men me sympatiek en warm vindt ,Sympathetic_warm,79da1047-78c8-494a-b238-35a50ebbe8c5
+9,10,RecPot,Ik ben nogal chaotisch en slecht georganiseerd,Chaotic,93db34b0-aae9-4e3f-8627-9241e2b25479
+9,10,RecPot,Ik ben rustig en stabiel,Quiet_stable,ddc49dd9-dbac-4e8e-9f94-ce3cfa37d5ce
+9,10,RecPot,"Ik ben nogal behoudsgezind, klassiek",conservative_classical,03f197d4-4053-48a8-bf3e-fe1f15dcf335
+1,10,RecPot,Ik wil altijd meer,always_more,cebce5b7-eb50-4bcf-9d94-d708e0c32e01
+1,10,RecPot,Ik ben eigenlijk wel hebberig,greedy,54be91d4-49ec-419f-821a-461e3a5d7fd3
+1,10,RecPot,Geld heb je nooit genoeg,profit_driven,d75bb486-5fc5-49c3-b8bc-d7a805d257cb
+1,10,RecPot,"Zodra ik iets heb, denk ik alweer aan het volgende dat ik wil hebben",never_enough,8cf31fc7-ee1d-4c37-ade4-ba41dc4cc7d8
+1,10,RecPot,"Het maakt niet uit hoeveel ik heb, ik ben nooit echt tevreden",never_enough,b9c89936-ee49-4493-9619-3a51e8a761a0
+1,10,RecPot,Mijn levensmotto is 'meer is beter',more_better,aa15a04a-dc7a-4524-99b2-720ec40bea8c
+1,10,RecPot,Ik denk dat ik nooit genoeg spullen kan hebben.,never_enough,ef6c90c7-11b5-450e-9a97-8cb7d35d42fd
