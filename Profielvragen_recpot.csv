@@ -1,4 +1,4 @@
-Priority,Weight,Cat ,Vraag,Tag
+ï»¿Priority,Weight,Cat ,Vraag,Tag
 1,10,RecPot,"Het maakt me blij, als ik  anderen kan helpen.",love_helping
 1,10,RecPot,Ik hou ervan anderen de weg te wijzen,love_helping
 1,10,RecPot,Ik deel graag mijn kennis met anderen.,share knowledge
@@ -11,13 +11,13 @@ Priority,Weight,Cat ,Vraag,Tag
 1,10,RecPot,Groepswerk spreekt me wel aan.,teamwork
 1,10,RecPot,Ik ken veel mensen en heb veel vrienden.,lots of friends
 1,10,RecPot,Ik verkies harmonie in alles wat ik doe,harmony
-1,10,RecPot, Tact en warmte zijnbelangrijk in al mijn relaties,tactfull
+1,10,RecPot,Â Tact en warmte zijnbelangrijk in al mijn relaties,tactfull
 1,10,RecPot,Waarden zijn belangrijk voor mij. ,values
 1,10,RecPot,Ik kijk eerst naar wat belangrijk is voor de anderen.,giving
 1,10,RecPot,Ik beslis met mijn hart en met het nodige medeleven ,empathy
 1,10,RecPot,Tact is belangrijker dan koudweg de waarheid te vertellen.,tactfull
 1,10,RecPot,Soms sluit ik mijn ogen voor de harde kanten aan de feiten,dont_love_facts
-1,10,RecPot,Anderen vinden we soms veel te idealistisch en te naief.,naïve
+1,10,RecPot,Anderen vinden we soms veel te idealistisch en te naief.,naÃ¯ve
 1,10,RecPot,"Ik deel graag mijn ervaringen met vrienden, buren en familie",share knowledge
 1,10,RecPot,Ik deel graag mijn ervaringen tijdens echte gesprekken,share knowledge
 1,10,RecPot,Ik deel graag mijn ervaringen op sociale media,share_experience_socmed
@@ -38,10 +38,10 @@ Priority,Weight,Cat ,Vraag,Tag
 4,6,RecPot,Reclamespotjes spoek ik altijd door.,ff_tvcommercials
 4,6,RecPot,Ik hou van reclamespotjes,love_tvcommercials
 4,6,RecPot,Reclame op TV is een ideale plaspauze,pipi_tvcommercials
-1,10,RecPot,Ik ben zeer goed in het beïnvloeden van mensen,influencing_goodatit
-1,10,RecPot,Ik ben zeer slecht in het beïnvloeden van mensen,influencing_notgoodatit
-1,10,RecPot,Ik wil helemaal niemand beïnvloeden. Waarom zou ik,influencing_don'twant
-1,10,RecPot,Af en toe slaag ik er in iemand te beïnvloeden.,influencing_sometimes
+1,10,RecPot,Ik ben zeer goed in het beÃ¯nvloeden van mensen,influencing_goodatit
+1,10,RecPot,Ik ben zeer slecht in het beÃ¯nvloeden van mensen,influencing_notgoodatit
+1,10,RecPot,Ik wil helemaal niemand beÃ¯nvloeden. Waarom zou ik,influencing_don'twant
+1,10,RecPot,Af en toe slaag ik er in iemand te beÃ¯nvloeden.,influencing_sometimes
 2,10,RecPot,Als ik in de spiegel kijk vind ik mezelf gewoon.,am_normal
 2,10,RecPot,Als ik in de spiegel kijk vind ik mezelf  doodgewoon,am_deadnormal
 2,10,RecPot,Als ik in de spiegel kijk vind ik mezelf speciaal ,am_special
@@ -87,7 +87,7 @@ Priority,Weight,Cat ,Vraag,Tag
 2,7,RecPot,Oppositieleider.Dat zou ik het liefst van al zijn.,wanttobe_opposition
 9,3,RecPot,Ik vind bruine  groenten de lekkerste van allemaal,love_vegetables_brown
 9,3,RecPot,Ik studeer rnog steeds. Ik weet van geen ophouden,still_studying
-9,3,RecPot,Studeren én kleine klusjes doen vind ik de max,studying_smalljobs
+9,3,RecPot,Studeren Ã©n kleine klusjes doen vind ik de max,studying_smalljobs
 9,3,RecPot,Elke ochtend trek ik me terug in het kleinste kamertke,toilet_everymorning
 9,3,RecPot,Na de eerste sigaret trek ik me terug in het kleinste kamertke,toilet_aftercigarette
 9,3,RecPot,Als het nodig is trek ik me terug in het kleinste kamertke,toilet_whenneeded
